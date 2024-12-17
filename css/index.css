@@ -87,6 +87,17 @@ footer {
     display: none;
 }
 
+.button-style {
+    background-color: white;
+    color: #184b1c;
+    padding: 15px 25px;
+    font-weight: bold;
+  }
+
+.pad-up{
+    padding-top: 25px;
+}
+
 @media screen and (max-width: 600px) {
     .topnav a:not(:first-child) {
         display: none;
